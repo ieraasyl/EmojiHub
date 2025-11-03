@@ -21,7 +21,7 @@ Next.js web app for exploring, searching, and managing emojis with AI-powered de
 ### Prerequisites
 
 - Node.js 18+
-- Running [AuthService](https://github.com/your-org/AuthService) backend
+ - Running [AuthService](https://github.com/ieraasyl/AuthService) backend
 - Google API key for Gemini
 
 ### Setup
@@ -77,7 +77,7 @@ JWT_SECRET=<min-32-bytes-secret>
 POSTGRES_PASSWORD=<db-password>
 ```
 
-See [AuthService README](https://github.com/your-org/AuthService) for full setup.
+See [AuthService README](https://github.com/ieraasyl/AuthService) for full setup.
 
 ## Authentication Service
 
@@ -142,7 +142,7 @@ docker-compose up -d --build
 - Health Check: http://localhost:8080/health
 - Metrics: http://localhost:8080/metrics
 
-For detailed setup instructions, refer to the [AuthService README](https://github.com/your-org/AuthService).
+For detailed setup instructions, refer to the [AuthService README](https://github.com/ieraasyl/AuthService).
 
 ### Auth Configuration
 
