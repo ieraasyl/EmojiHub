@@ -8,7 +8,7 @@ Next.js web app for exploring, searching, and managing emojis with AI-powered de
 - ⭐ Save favorites (requires authentication)
 - 🤖 AI-powered descriptions via Google Gemini
 - 🔐 Google OAuth 2.0 with JWT and multi-device sessions
-- 🎨 Material-UI with dark/light theme
+- 🎨 Material-UI with dark theme
 
 ## Tech Stack
 
